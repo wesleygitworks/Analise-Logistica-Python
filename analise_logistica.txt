@@ -1,0 +1,4 @@
+cidade	tempo_entrega_dias	custo_frete	atraso
+Campinas	2.4	77.6	0.0
+Sorocaba	4.8	116.0	100.0
+São Paulo	1.8	50.0	0.0
